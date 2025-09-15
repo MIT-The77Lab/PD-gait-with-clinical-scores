@@ -24,7 +24,7 @@ This dataset addresses the challenge of **automated PD detection and clinical sc
 
 You can download the dataset via the following link:
 
-🔗 [Download Dataset (Google Drive)](your-drive-link-here)
+🔗 [Download Dataset (Google Drive)](https://drive.google.com/file/d/1bFNe1_VHgn9JJYuRkE0z-O4WQN9nFkjA/view?usp=sharing)
 
 ---
 
