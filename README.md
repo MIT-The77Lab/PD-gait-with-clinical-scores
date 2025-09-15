@@ -11,7 +11,12 @@ This repository provides access to **Human Pose-Based PD Dataset**, a comprehens
 - 38 `Healthy Controls`
 - Multiple recording sessions per patient
 
-This dataset addresses the challenge of **automated PD detection** using human pose-based analysis, captured under various recording conditions and durations.
+**Walking Scenarios**
+- TS: Simple Task
+- CR: Counting Down
+- FV: Verbal Fluency
+
+This dataset addresses the challenge of **automated PD detection and clinical score assessment** using human pose-based analysis, captured under various walking conditions.
 
 ---
 
